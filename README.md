@@ -4,5 +4,5 @@
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 ![](https://hit.yhype.me/github/profile?user_id=46288251)
