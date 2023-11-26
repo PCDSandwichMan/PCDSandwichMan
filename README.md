@@ -1,13 +1,13 @@
-<h1 align="center">Wait a second.... This isn't Facebook.....</h1>
+<h1 align="center">Well Hello There</h1>
 
 <p align="center">
-    <b>Do you like buttons? Here have some buttons.</b><br><br>
-    <a href="https://www.linkedin.com/in/matthewendicott/">
+    <b>We’ve been trying to reach you about your car's extended warranty.</b><br><br>
+    <!-- <a href="https://www.linkedin.com/in/matthewendicott/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/elonmusk" >
         <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter">
-    </a>
+    </a> -->
 </p>
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-line.gif" width="9000px">
@@ -18,7 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/gif-line.gif" width="9000px">
 
-### Languages
+<!-- ### Languages
 
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
@@ -45,4 +45,4 @@
 
 ![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=apple)
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
-![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=Windows)
+![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=Windows) -->
