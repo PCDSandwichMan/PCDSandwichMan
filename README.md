@@ -1,7 +1,7 @@
 <h1 align="center">Well Hello There</h1>
 
 <p align="center">
-    <b>We’ve been trying to reach you about your car's extended warranty.</b><br><br>
+    <b>We’ve been trying to reach you about your cat's extended warranty.</b><br><br>
     <!-- <a href="https://www.linkedin.com/in/matthewendicott/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
